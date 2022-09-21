@@ -1,0 +1,31 @@
+_id: req_e61cd27958c04514b11b38c3573634f7
+type: Request
+parentId: fld_b6a3eba8051648ccb539bda7c5d931f8
+modified: 1663783226395
+created: 1663710177552
+url: http://127.0.0.1:8080/time/add
+name: /time/add
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    	{
+    		"amount": "02:00",
+    		"category": 1,
+    		"entryDate": 3
+    	}
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_ccfc7c5d5cd94b0d8d137aba69b190b7
+authentication: {}
+metaSortKey: -1663710177552
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

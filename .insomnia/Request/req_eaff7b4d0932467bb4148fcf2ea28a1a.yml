@@ -1,0 +1,30 @@
+_id: req_eaff7b4d0932467bb4148fcf2ea28a1a
+type: Request
+parentId: fld_c498e098de7a4edeaface820ee26d025
+modified: 1663782676150
+created: 1663709060732
+url: http://127.0.0.1:8080/date/add
+name: /date/add
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    	{
+    		"date": "2022-02-99",
+    		"comment": "test ttttttttddddddddddddd"
+    	}
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_36afed25ca23446c80f29e01f5875b74
+authentication: {}
+metaSortKey: -1663709060732
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

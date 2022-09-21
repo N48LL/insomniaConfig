@@ -1,0 +1,30 @@
+_id: req_8ff32ba9163f427ea7b264442668e7ec
+type: Request
+parentId: fld_c498e098de7a4edeaface820ee26d025
+modified: 1663783355977
+created: 1663764722990
+url: http://127.0.0.1:8080/date/update/3
+name: /date/update/{id}
+description: ""
+method: PUT
+body:
+  mimeType: application/json
+  text: |-
+    	{
+    		"date": "2024-01-19",
+    		"comment": ";)"
+    	}
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_abeefc94925e4271bfa8a3332f8a4d5a
+authentication: {}
+metaSortKey: -1663709060757
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

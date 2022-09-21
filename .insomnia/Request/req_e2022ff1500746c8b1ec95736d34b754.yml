@@ -1,0 +1,31 @@
+_id: req_e2022ff1500746c8b1ec95736d34b754
+type: Request
+parentId: fld_b6a3eba8051648ccb539bda7c5d931f8
+modified: 1663783359194
+created: 1663754457306
+url: http://127.0.0.1:8080/time/update/1
+name: /time/update/{id}
+description: ""
+method: PUT
+body:
+  mimeType: application/json
+  text: |-
+    	{
+    		"amount": "09:00",
+    		"category": 2,
+    		"entryDate": 3
+    	}
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_b2ceaf1105f24509bd37fb1a602ca5fe
+authentication: {}
+metaSortKey: -1663710177652
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

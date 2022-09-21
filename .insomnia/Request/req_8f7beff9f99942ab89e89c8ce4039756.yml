@@ -1,0 +1,38 @@
+_id: req_8f7beff9f99942ab89e89c8ce4039756
+type: Request
+parentId: fld_6ce1e7f5292d4fb284964561d9795d78
+modified: 1663749601676
+created: 1663438109853
+url: http://127.0.0.1:8080/app/add/
+name: app/add/
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    	{
+    		"amount": "07:30",
+    		"year": 2023,
+    		"month": "01",
+    		"day": "01",
+    		"category": 1,
+    		"comment": {
+    			"text": "this is a text comment",
+    			"date": "2025-01-01"
+    		},
+    		"date": "2028-01-01"
+    	}
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_428004f944ed4fcf8bee9ac03b4a2d84
+authentication: {}
+metaSortKey: -1663438109853
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
