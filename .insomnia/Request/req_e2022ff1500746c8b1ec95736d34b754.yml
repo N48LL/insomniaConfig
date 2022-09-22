@@ -1,9 +1,9 @@
 _id: req_e2022ff1500746c8b1ec95736d34b754
 type: Request
 parentId: fld_b6a3eba8051648ccb539bda7c5d931f8
-modified: 1663783359194
+modified: 1663875005608
 created: 1663754457306
-url: http://127.0.0.1:8080/time/update/1
+url: http://127.0.0.1:8080/time/update/3
 name: /time/update/{id}
 description: ""
 method: PUT
@@ -11,9 +11,9 @@ body:
   mimeType: application/json
   text: |-
     	{
-    		"amount": "09:00",
-    		"category": 2,
-    		"entryDate": 3
+    		"amount": "02:00",
+    		"category": 5,
+    		"entryDate": 4
     	}
 parameters: []
 headers:
