@@ -1,7 +1,7 @@
 _id: req_e61cd27958c04514b11b38c3573634f7
 type: Request
 parentId: fld_b6a3eba8051648ccb539bda7c5d931f8
-modified: 1663926475138
+modified: 1663936874223
 created: 1663710177552
 url: http://127.0.0.1:8080/time/add
 name: /time/add
@@ -14,7 +14,7 @@ body:
     		"category": 4,
     		"amount": "11:10",
     		"entryDate": {
-    			"id": 4
+    			"id": 2
     		}
     	}
 parameters: []
