@@ -1,9 +1,9 @@
 _id: req_8ff32ba9163f427ea7b264442668e7ec
 type: Request
 parentId: fld_c498e098de7a4edeaface820ee26d025
-modified: 1663948391785
+modified: 1664297459095
 created: 1663764722990
-url: http://127.0.0.1:8080/date/update/10
+url: http://127.0.0.1:8080/date/update/4
 name: /date/update/{id}
 description: ""
 method: PUT
@@ -12,8 +12,8 @@ body:
   text: |-
     	{
     		"year": "2022",
-    		"month": "11",
-    		"day": "11",
+    		"month": "01",
+    		"day": "03",
     		"comment": "Ivan not ruski ))))"
     	}
 parameters: []
