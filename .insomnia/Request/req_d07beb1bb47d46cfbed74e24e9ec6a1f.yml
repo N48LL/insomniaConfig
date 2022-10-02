@@ -1,9 +1,9 @@
 _id: req_d07beb1bb47d46cfbed74e24e9ec6a1f
 type: Request
 parentId: fld_6e39e99ea838499998a740d0458dc226
-modified: 1664295654837
+modified: 1664614657108
 created: 1663942731633
-url: http://127.0.0.1:8080/date/2022/11/11
+url: http://127.0.0.1:8080/date/2022/01/02/sum
 name: "{year}/{month}/{day}"
 description: ""
 method: GET

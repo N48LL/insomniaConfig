@@ -1,28 +1,28 @@
-_id: req_8ff32ba9163f427ea7b264442668e7ec
+_id: req_5fa40b03fb3144c0b901101ebba58451
 type: Request
 parentId: fld_c498e098de7a4edeaface820ee26d025
-modified: 1664634755270
-created: 1663764722990
-url: http://127.0.0.1:8080/date/update/4
-name: /date/update/{id}
+modified: 1664724648495
+created: 1664637249838
+url: http://127.0.0.1:8080/date/addnew
+name: /date/addnew
 description: ""
-method: PUT
+method: POST
 body:
   mimeType: application/json
   text: |-
     	{
-    		"year": "2022",
-    		"month": "01",
-    		"day": "03",
-    		"comment": "Ivan not ruski ))))"
+    		"year": "2025",
+    		"month": "09",
+    		"day": "29",
+    		"comment": "toaadgay"
     	}
 parameters: []
 headers:
   - name: Content-Type
     value: application/json
-    id: pair_abeefc94925e4271bfa8a3332f8a4d5a
+    id: pair_36afed25ca23446c80f29e01f5875b74
 authentication: {}
-metaSortKey: -1663709060757
+metaSortKey: -1663709060707
 isPrivate: false
 settingStoreCookies: true
 settingSendCookies: true

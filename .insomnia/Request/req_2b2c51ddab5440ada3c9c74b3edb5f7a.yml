@@ -1,9 +1,9 @@
 _id: req_2b2c51ddab5440ada3c9c74b3edb5f7a
 type: Request
 parentId: fld_3a8ebd6539324683a838acca4424dd4e
-modified: 1664298004827
+modified: 1664560167982
 created: 1664279490783
-url: http://127.0.0.1:8080/time/2022/11/11/sumbycategory
+url: http://127.0.0.1:8080/time/2022/01/01/daysum
 name: "{year}/{month}/{day}/{category}"
 description: ""
 method: GET

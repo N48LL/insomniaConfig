@@ -1,27 +1,26 @@
-_id: req_e2022ff1500746c8b1ec95736d34b754
+_id: req_ab53bfd65d1b4ed2bb126321533526e7
 type: Request
 parentId: fld_b6a3eba8051648ccb539bda7c5d931f8
-modified: 1664634759646
-created: 1663754457306
-url: http://127.0.0.1:8080/time/update/2
-name: /time/update/{id}
+modified: 1664707566052
+created: 1664700805778
+url: http://127.0.0.1:8080/time/add/Flex
+name: /add/{categoryName}
 description: ""
-method: PUT
+method: POST
 body:
   mimeType: application/json
   text: |-
     	{
-    		"amount": "02:50:00",
-    		"category": 1,
-    		"entryDate": 2
+    		"amount": "01:37:00",
+    		"entryDate": 3
     	}
 parameters: []
 headers:
   - name: Content-Type
     value: application/json
-    id: pair_b2ceaf1105f24509bd37fb1a602ca5fe
+    id: pair_ccfc7c5d5cd94b0d8d137aba69b190b7
 authentication: {}
-metaSortKey: -1663710177652
+metaSortKey: -1663710177527
 isPrivate: false
 settingStoreCookies: true
 settingSendCookies: true

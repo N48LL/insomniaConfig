@@ -1,7 +1,7 @@
 _id: req_eaff7b4d0932467bb4148fcf2ea28a1a
 type: Request
 parentId: fld_c498e098de7a4edeaface820ee26d025
-modified: 1664298338497
+modified: 1664722789924
 created: 1663709060732
 url: http://127.0.0.1:8080/date/add
 name: /date/add
@@ -11,10 +11,10 @@ body:
   mimeType: application/json
   text: |-
     	{
-    		"year": "2023",
-    		"month": "01",
-    		"day": "09",
-    		"comment": "comment jan 09 2023"
+    		"year": "2022",
+    		"month": "11",
+    		"day": "08",
+    		"comment": "today"
     	}
 parameters: []
 headers:
