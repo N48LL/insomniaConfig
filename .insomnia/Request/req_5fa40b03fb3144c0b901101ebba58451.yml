@@ -1,7 +1,7 @@
 _id: req_5fa40b03fb3144c0b901101ebba58451
 type: Request
 parentId: fld_c498e098de7a4edeaface820ee26d025
-modified: 1664813407394
+modified: 1665396937792
 created: 1664637249838
 url: http://127.0.0.1:8080/date/addnew
 name: /date/addnew
@@ -11,9 +11,9 @@ body:
   mimeType: application/json
   text: |-
     	{
-    		"year": "2025",
-    		"month": "09",
-    		"day": "34",
+    		"year": "2022",
+    		"month": "10",
+    		"day": "01",
     		"comment": "toaadgay"
     	}
 parameters: []

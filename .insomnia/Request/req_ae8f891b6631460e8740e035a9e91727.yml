@@ -1,9 +1,9 @@
 _id: req_ae8f891b6631460e8740e035a9e91727
 type: Request
 parentId: fld_b6a3eba8051648ccb539bda7c5d931f8
-modified: 1665183287536
+modified: 1665211068666
 created: 1665181268908
-url: http://127.0.0.1:8080/time/4/delete
+url: http://127.0.0.1:8080/time/21/delete
 name: /time/deletebydate/{entrydateid}
 description: ""
 method: DELETE
